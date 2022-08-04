@@ -1,30 +1,14 @@
 @import "null";
 @import "variables";
-@import "math";
 //---------------------------------- базовая настройка
 //@import url(https://fonts.googleapis.com/css?family=Montserrat:regular,700,800);
 
 @import "base";
 @import "iconfont";
-//-------------------------------------------------Header
-//@import "header";
-//@import "header-burger";
-//@import "header-hide-on-scroll";
-//-------------------------------------------------Main
+
 @import "main";
-//-------------------------------------------------Footer
-//@import "footer";
 
 //-----------------------------------------подключение библиотеки стилей свайпера
 @import "slider";
 
-//-----------------------------------------подключение спойлеров
-//@import "spoller";
-//-----------------------------------------portfolio
-// @import "my-portfolio-modal";
-// @import "my-portfolio-modal-slider";
-
 //----------------------------------------some-form
-@import "some-form";
-
-@import "preload";
